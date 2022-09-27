@@ -41,3 +41,8 @@ Serão considerados <b>no prazo</b> os projetos publicados até o dia 27 de sete
 Serão considerados <b>com atraso</b> os projetos publicados até o dia 30 de setembro de 2022.
 
 Serão considerados <b>fora do prazo </b> os projetos publicados posterior a data do dia 30 de setembro de 2022.
+
+## Considerações Finais
+
+Você pode consultar a documentação oficial, a documentação com o Zeal, os slides e códigos do repositório da nossa sala, e até mesmo conversar com colegas de sala.  
+<b>Mas</b> não é permitido copiar o código sem entender o que fez (popular cola). Ficou combinado que as atividades que forem cola serão zeradas na nota.
